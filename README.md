@@ -47,7 +47,7 @@ In this book, customs and skills to understand the world based on data and facts
 
 * This peaceful world is a ephemeral gift for us given by people from former generation.  
 
-* "Fear" and "Danger" are much different. Feeling fear just looks like there is a risk. On the other hand, a dangerous thing always has a risk. If you concentrateed on the fear too much, your effort will turn out of to be nothing but pain.  
+* "Fear" and "Danger" are much different. Feeling fear just looks like there is a risk. On the other hand, a dangerous thing always has a risk. If you concentrated on the fear too much, your effort will turn out of to be nothing but pain.  
 
 * A risk is decided by a multiplication of a risk allowance and a frequency, in other words, a quality and amount. "Fear" doesn't matter.  
 
@@ -55,9 +55,9 @@ In this book, customs and skills to understand the world based on data and facts
 
 * It is important that you try to see a value behind the story, but it is also important that you try to see the story behind the value.  
 
-* A velue has never any meanings without comparison with other value. If you were shown only one value, you should to ask him "do you have any other velues you can compare with first one?"  
+* A value has never any meanings without comparison with other value. If you were shown only one value, you should to ask him "do you have any other values you can compare with first one?"  
 * Firstly, you should think that "Which item accounts about 80% of all?".  
-* When a value is inceasing or decreasing, any other related value is inceasing or decreasing too.  
+* When a value is increasing or decreasing, any other related value is increasing or decreasing too.  
 
 * Classification is necessary. It is important that you notice your classification is not correct and replace it with other more appropriate classification.  
 * Five methods to review your classification:
@@ -72,12 +72,12 @@ In this book, customs and skills to understand the world based on data and facts
 
 * Future has a part which you can not see. So, you should make it clear how unclear it is when you speak about your future.  
 
-* You should not show that a worst scenario is like reliable by selecting only dramatic predictions. An exaggeration must be overlookd. You should show the middle of your prediction and the width between the best scenario and the worst scenario.  
+* You should not show that a worst scenario is like reliable by selecting only dramatic predictions. An exaggeration must be overlooked. You should show the middle of your prediction and the width between the best scenario and the worst scenario.  
 
 * When you round and show a value, you should round it as being at a disadvantage.  
 
 * If you felt like "I must decide right now", you should notice your impatience. You should know that such a situation is rare.  
 
-* A prediction about your future is unsecure. You should doubt the prediction which they don't admit it is unsecure.  
+* A prediction about your future is uncertain. You should doubt the prediction which they don't admit it is uncertain.  
 
 * You should take good care of an idea which is different from yours and make an effort to understand a meaning behind the idea.  
