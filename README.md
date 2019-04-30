@@ -28,8 +28,8 @@ In this book, customs and skills to understand the world based on data and facts
 
 ## Memo
 ---
-* When you understand statistics, if the difference of values was about 10% or lower than 10%, you should be cautious in concluding based on the difference.  
-<br/>
+* When you understand statistics, if the difference of values was about 10% or lower than 10%, you should be cautious in concluding based on the difference.
+<br>
 * Don't forget that an average hides a veriation.  
 <br>
 * Three factors which stimulate your negative instinct:  
